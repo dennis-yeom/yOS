@@ -1,2 +1,4 @@
 # yOS
-my attempt atbecoming linus
+Attempt to make my own OS.
+
+Resource: https://wiki.osdev.org/
